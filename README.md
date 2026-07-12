@@ -10,7 +10,7 @@
 - MERN Stack
 - Agentic AI
 - LLMs & RAG
-- MLOps & Cloud
+
 
 🎯 Goal:
 To become a Software Engineer specializing in AI-powered applications and scalable backend systems.
@@ -84,8 +84,8 @@ To become a Software Engineer specializing in AI-powered applications and scalab
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/rakesh-raulo-83041b34a
+- Email: raulorakesh2@gmail.com
 
 ---
 
