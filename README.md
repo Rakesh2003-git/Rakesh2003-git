@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi there, I'm Rakesh Raulo 👋
 
-<!--
-**Rakesh2003-git/Rakesh2003-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 B.Tech Information & Technology Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Artificial Intelligence, and Full-Stack Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Data Structures & Algorithms (C++)
+- MERN Stack
+- Agentic AI
+- LLMs & RAG
+- MLOps & Cloud
+
+🎯 Goal:
+To become a Software Engineer specializing in AI-powered applications and scalable backend systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C++
+- Python
+- JavaScript
+- SQL
+
+### Frontend
+- HTML
+- CSS
+- React
+
+### Backend
+- Node.js
+- Express.js
+- Flask
+
+### Database
+- MongoDB
+- MySQL
+
+### AI & Machine Learning
+- Scikit-learn
+- LangChain
+- RAG
+- LLMs
+- Vector Databases
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📚 Currently Working On
+
+- Solving DSA problems daily
+- Building MERN Stack projects
+- Learning Agentic AI
+- Exploring LangGraph & MCP
+- Creating AI-powered applications
+
+---
+
+## 🚀 Featured Projects
+
+- 🤖 AI Job Application Assistant
+- 📄 AI Resume Analyzer
+- 💼 Job Tracker
+- 🌐 MERN Stack Applications
+
+---
+
+## 📈 GitHub Goals
+
+- Contribute to Open Source
+- Build impactful AI projects
+- Share knowledge through GitHub
+- Maintain clean and well-documented repositories
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/your-linkedin
+- Email: your-email@example.com
+
+---
+
+⭐ *"Keep learning, keep building, and keep improving."*
